@@ -138,7 +138,6 @@ head(jateng)
 ```{r}
 library("ggplot2")
 library("readxl")
-library("dplyr")
 ggplot(data=jateng,aes(x=PUS,y=JBL)) + 
   geom_point(color="blue",size=2) +
   labs(title = "tabel 1. Hubungan Antara Pasangan KB dan Jumlah Bayi Lahir", 
