@@ -9,7 +9,7 @@ format:
   docx: default
 ---
 
-![](images/poltekapp.jpg){fig-align="center" width="450"}
+![](images/poltekapp.jpg){fig-align="center" width="451"}
 
 ## Pendahuluan
 
@@ -124,7 +124,7 @@ Berikut adalah data yang digunakan sebagai objek penelitian, data dibawah merupa
 |    Kota Pekalongan     |  77004  |  5923   |
 |       Kota Tegal       |  81061  |  4214   |
 
-![Logo Badan Pusat Statistika (BPS)](images/BPS.png){fig-align="center" width="333"}
+![Logo Badan Pusat Statistika (BPS)](images/BPS.png){fig-align="center" width="332"}
 
 Penelitian ini menggunakan data Pasangan Usia Subur (PUS) Peserta KB dan Jumlah Kelahiran Bayi di Jawa Tengah 2019
 
